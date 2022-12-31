@@ -5,9 +5,39 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./numbers.png);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+div.card {
+  background-color: #B9BBB6;
+  margin: 250px 50px;
+  border-radius: 150px;
+  border: #222021 5px solid;
+}
+
+h1, h2 {
+  color:#222021;
+}
+
+button.up {
+  background-color: lightgreen;
+  color: darkgreen;
+  font-weight: bold;
+}
+
+button.down {
+  background-color: red;
+  color: darkred;
+  font-weight: bold;
+}
+
+button.reset {
+  background-color: grey;
+  color: #363636;
+  font-weight: bold;
 }
