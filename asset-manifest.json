@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/counterApp/static/css/main.d59a0711.css",
+    "main.js": "/counterApp/static/js/main.ac086d24.js",
+    "static/media/numbers.png": "/counterApp/static/media/numbers.a3eef2ce45c8830dc594.png",
+    "index.html": "/counterApp/index.html",
+    "main.d59a0711.css.map": "/counterApp/static/css/main.d59a0711.css.map",
+    "main.ac086d24.js.map": "/counterApp/static/js/main.ac086d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59a0711.css",
+    "static/js/main.ac086d24.js"
+  ]
+}
